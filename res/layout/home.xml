@@ -1,0 +1,49 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.homework.MainActivity" >
+    <TextView 
+       android:id="@+id/title"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="别碰红线"
+       android:textColor="#FFF"
+       android:textSize="70dp"
+       android:layout_above="@+id/start"
+       android:layout_centerHorizontal="true"
+       android:layout_marginBottom="60dp"
+        />
+    
+   <TextView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignRight="@+id/title"
+       android:layout_alignTop="@+id/title"
+       android:text="红线"
+       android:textColor="#FF0000"
+       android:textSize="70dp" />
+   <Button 
+       android:id="@+id/start"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:background="@drawable/shape"
+       android:layout_centerHorizontal="true"
+       android:layout_centerVertical="true"
+       android:text="开始游戏"
+       android:textSize="50dp"
+       />
+   <Button 
+       android:id="@+id/exit"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_below="@+id/start"
+       android:layout_marginTop="15dp"
+       android:background="@drawable/shape"
+       android:layout_centerHorizontal="true"
+       android:text="退出"
+       android:textSize="40dp"
+       />
+
+
+</RelativeLayout>

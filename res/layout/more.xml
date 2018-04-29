@@ -1,0 +1,13 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="游戏名：别碰红线\n作者：郭陈潇\n班级：网络152\n学号：201559545218\n指导老师：杨俊"
+        android:textColor="#FFF"
+        android:textSize="30dp"
+        android:padding="20dp"
+        />
+    </RelativeLayout>
