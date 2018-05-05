@@ -5,7 +5,7 @@
     <TextView 
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="游戏名：别碰红线\n作者：郭陈潇\n班级：网络152\n学号：201559545218\n指导老师：杨俊"
+        android:text="游戏名：别碰红线\n版本1.0\n"
         android:textColor="#FFF"
         android:textSize="30dp"
         android:padding="20dp"
