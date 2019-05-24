@@ -1,2 +1,2 @@
-# Ball Game
-    没java基础的情况下写的一个Android小游戏，面向过程编程+超差可读性
+# 别碰红线
+![GIF](http://image.morningcx.com/dd86274b-fc3b-4162-bc13-5c8b51e77f0b.gif)
